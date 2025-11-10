@@ -32,5 +32,5 @@
 [Добавь скриншоты работающего приложения]
 
 ## Ссылки
-- Frontend: [твоя ссылка на Vercel]
+- Frontend:https:/pr25-deploy-frontend.vercel.app
 - Backend API:(https://pr25-deploy-1-05y5.onrender.com)
