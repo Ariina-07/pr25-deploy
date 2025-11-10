@@ -33,4 +33,4 @@
 
 ## Ссылки
 - Frontend: [твоя ссылка на Vercel]
-- Backend API: [твоя ссылка на Railway]
+- Backend API:(https://pr25-deploy-1-05y5.onrender.com)
